@@ -2,7 +2,7 @@
 
 CloudVault is a full-stack cloud file storage application that allows users to securely upload, manage, and download files using AWS S3. Built with Spring Boot backend and React frontend, it provides a modern, secure, and user-friendly interface for cloud storage management.
 
-![CloudVault Dashboard](readme-assets/dashboard-ui.png)
+![CloudVault Dashboard](readme-assets/dashboard.png)
 
 ## 📋 Table of Contents
 
