@@ -589,14 +589,14 @@ All endpoints may return these common error responses:
 ### User Authentication
 
 #### Login Page
-![Login Page](readme-assets/login-ui.png)
+![Login Page](readme-assets/login.png)
 - Clean and modern login interface
 - Email and password authentication
 - Error handling with user feedback
 - Link to registration page
 
 #### Sign Up Page
-![Sign Up Page](readme-assets/signup-ui.png)
+![Sign Up Page](readme-assets/register.png)
 - User registration form
 - Username, email, and password fields
 - Client-side validation
@@ -605,21 +605,21 @@ All endpoints may return these common error responses:
 ### File Management Dashboard
 
 #### Main Dashboard
-![Dashboard](readme-assets/dashboard-ui.png)
+![Dashboard](readme-assets/dashboard.png)
 - File upload interface
 - List of all uploaded files
 - File actions (download, delete)
 - User profile and logout option
 - Real-time operation feedback
 
-#### File Upload in Progress
+<!-- #### File Upload in Progress
 ![Upload Loading](readme-assets/upload-loading.png)
 - Loading state during file upload
 - Progress feedback
-- Disabled state to prevent multiple uploads
+- Disabled state to prevent multiple uploads -->
 
 #### File Operations
-![File Actions](readme-assets/file-actions.png)
+![File Actions](readme-assets/file-action.png)
 - Download files directly from S3
 - Delete files with confirmation
 - File metadata display
@@ -627,7 +627,8 @@ All endpoints may return these common error responses:
 ### Database
 
 #### PostgreSQL Tables
-![PostgreSQL Database](readme-assets/postgresql-tables.png)
+![PostgreSQL Database](readme-assets/savedfile-tables.png)
+![PostgreSQL Database](readme-assets/savedfile-user.png)
 - `users` table with user credentials
 - `saved_files` table with file metadata
 - Foreign key relationships
@@ -635,7 +636,7 @@ All endpoints may return these common error responses:
 ### AWS S3 Bucket
 
 #### S3 Console
-![AWS S3 Bucket](readme-assets/s3-bucket-ui.png)
+![AWS S3 Bucket](readme-assets/aws-s3Bucket.png)
 - Uploaded files in S3 bucket
 - File organization
 - Access permissions
@@ -899,9 +900,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+**Shammas Khan**
+- GitHub: [@yourusername](https://github.com/shammaskhann)
+- Email: shammas.khan90321@gmail.com
 
 ---
 
