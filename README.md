@@ -627,7 +627,7 @@ All endpoints may return these common error responses:
 ### Database
 
 #### PostgreSQL Tables
-![PostgreSQL Database](readme-assets/savedfile-tables.png)
+![PostgreSQL Database](readme-assets/savedfile-table.png)
 ![PostgreSQL Database](readme-assets/savedfile-user.png)
 - `users` table with user credentials
 - `saved_files` table with file metadata
@@ -636,7 +636,7 @@ All endpoints may return these common error responses:
 ### AWS S3 Bucket
 
 #### S3 Console
-![AWS S3 Bucket](readme-assets/aws-s3Bucket.png)
+![AWS S3 Bucket](readme-assets/aws-s3bucket.png)
 - Uploaded files in S3 bucket
 - File organization
 - Access permissions
@@ -901,7 +901,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👨‍💻 Author
 
 **Shammas Khan**
-- GitHub: [@yourusername](https://github.com/shammaskhann)
+- GitHub: [@shammaskhann](https://github.com/shammaskhann)
 - Email: shammas.khan90321@gmail.com
 
 ---
@@ -918,7 +918,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Support
 
-For support, email your.email@example.com or open an issue in the GitHub repository.
+For support, email shammas.khan90321@gmail.com or open an issue in the GitHub repository.
 
 ---
 
